@@ -625,14 +625,14 @@ border-radius: 50%;
 a{
     text-decoration: none;
 }
-/* .form{
+.form{
     background: url(../images/form_background.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 305px;
     padding: -5px 55px 0 55px;
-} */
+}
 .form_main{
     margin: 55px;
     display: flex;
